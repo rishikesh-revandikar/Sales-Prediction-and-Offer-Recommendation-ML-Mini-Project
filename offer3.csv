@@ -1,0 +1,141 @@
+Offer_ID,Segment,Offer,Product Type
+200,3,"Special deal: Buy 2, Get 1 at 50% off on organic foods!",Consumable
+201,3,"Limited time offer: 25% off on all household essentials!",Non-Consumable
+202,3,"Super saver: Buy 3, Get 1 free on fresh produce!",Consumable
+203,3,"Mega discount: 35% off on cleaning supplies!",Non-Consumable
+204,3,"Weekend bonanza: 30% off on bakery items!",Consumable
+205,3,"Flash sale: 20% off on electronics!",Non-Consumable
+206,3,"Bulk discount: Buy 6, Get 2 free on canned goods!",Consumable
+207,3,"Clearance sale: 45% off on stationery items!",Non-Consumable
+208,3,"Family pack offer: Buy 4, Get 2 free on frozen foods!",Consumable
+209,3,"Limited stock: 15% off on clothing!",Non-Consumable
+210,3,"Combo extravaganza: Buy a set of snacks and get two drinks free!",Consumable
+211,3,"Exclusive electronics sale: Up to 60% off!",Non-Consumable
+212,3,"Buy 3, Get 1 at 35% off on personal care products!",Consumable
+213,3,"Home makeover: 70% off on home decor!",Non-Consumable
+214,3,"Bulk purchase special: Buy 5, Get 3 free on pet supplies!",Consumable
+215,3,"Back to school sale: 30% off on school supplies!",Non-Consumable
+216,3,"Organic produce offer: Buy 1, Get 1 at 45% off!",Consumable
+217,3,"Limited time offer: 25% off on kitchen appliances!",Non-Consumable
+218,3,"Weekend special: Buy 2, Get 1 free on dairy products!",Consumable
+219,3,"Gaming enthusiasts: 40% off on video games!",Non-Consumable
+220,3,"Bulk discount: Buy 7, Get 3 free on toiletries!",Consumable
+221,3,"Last chance: 50% off on gardening supplies!",Non-Consumable
+222,3,"Health and wellness week: Buy 2, Get 2 free on vitamins and supplements!",Consumable
+223,3,"Fitness frenzy: 30% off on fitness equipment!",Non-Consumable
+224,3,"Kitchen essentials: Buy 3, Get 1 at 40% off!",Consumable
+225,3,"Electronics clearance: Up to 70% off!",Non-Consumable
+226,3,"Buy 4, Get 2 at 30% off on personal care products!",Consumable
+227,3,"Winter wonderland: 40% off on winter apparel!",Non-Consumable
+228,3,"Office supplies special: Buy 3, Get 1 free!",Consumable
+229,3,"Tech deals: Up to 50% off on laptops and accessories!",Non-Consumable
+230,3,"Home essentials bundle: Buy 5, Get 3 free!",Consumable
+231,3,"Limited time offer: 20% off on furniture!",Non-Consumable
+232,3,"Fitness gear: Buy 1, Get 1 at 30% off!",Consumable
+233,3,"Electronics extravaganza: Up to 60% off!",Non-Consumable
+234,3,"Supermarket sweep: Buy 3, Get 1 free!",Consumable
+235,3,"Fashion fiesta: 25% off on clothing and accessories!",Non-Consumable
+236,3,"Buy 2, Get 1 at 40% off on beauty products!",Consumable
+237,3,"Gadgets galore: Up to 70% off!",Non-Consumable
+238,3,"Kitchen essentials: Buy 4, Get 2 free!",Consumable
+239,3,"Backyard bonanza: 30% off on outdoor furniture!",Non-Consumable
+240,3,"Office supplies special: Buy 2, Get 1 free!",Consumable
+241,3,"Tech deals: Up to 50% off on smartphones and gadgets!",Non-Consumable
+242,3,"Home essentials bundle: Buy 6, Get 3 free!",Consumable
+243,3,"Limited stock: 15% off on home decor!",Non-Consumable
+244,3,"Fitness gear: Buy 2, Get 2 at 35% off!",Consumable
+245,3,"Electronics extravaganza: Up to 80% off!",Non-Consumable
+246,3,"Supermarket sweep: Buy 5, Get 2 free!",Consumable
+247,3,"Fashion fiesta: 30% off on fashion and accessories!",Non-Consumable
+248,3,"Buy 3, Get 1 at 45% off on beauty products!",Consumable
+249,3,"Gadgets galore: Up to 90% off!",Non-Consumable
+250,3,"Kitchen essentials: Buy 1, Get 1 free!",Consumable
+251,3,"Backyard bonanza: 40% off on outdoor furniture!",Non-Consumable
+252,3,"Office supplies special: Buy 5, Get 3 free!",Consumable
+253,3,"Tech deals: Up to 60% off on tablets and e-readers!",Non-Consumable
+254,3,"Home essentials bundle: Buy 4, Get 2 free!",Consumable
+255,3,"Limited time offer: 10% off on rugs and carpets!",Non-Consumable
+256,3,"Fitness gear: Buy 3, Get 1 at 50% off!",Consumable
+257,3,"Electronics extravaganza: Up to 70% off!",Non-Consumable
+258,3,"Supermarket sweep: Buy 2, Get 1 free!",Consumable
+259,3,"Fashion fiesta: 35% off on clothing and accessories!",Non-Consumable
+260,3,"Buy 4, Get 2 at 40% off on beauty products!",Consumable
+261,3,"Gadgets galore: Up to 75% off!",Non-Consumable
+262,3,"Kitchen essentials: Buy 3, Get 1 free!",Consumable
+263,3,"Backyard bonanza: 45% off on outdoor furniture!",Non-Consumable
+264,3,"Office supplies special: Buy 2, Get 1 free!",Consumable
+265,3,"Tech deals: Up to 55% off on headphones and speakers!",Non-Consumable
+266,3,"Home essentials bundle: Buy 5, Get 3 free!",Consumable
+267,3,"Limited stock: 20% off on home decor!",Non-Consumable
+268,3,"Fitness gear: Buy 2, Get 2 at 40% off!",Consumable
+269,3,"Electronics extravaganza: Up to 65% off!",Non-Consumable
+270,3,"Supermarket sweep: Buy 6, Get 2 free!",Consumable
+271,3,"Fashion fiesta: 40% off on fashion and accessories!",Non-Consumable
+272,3,"Buy 3, Get 1 at 55% off on beauty products!",Consumable
+273,3,"Gadgets galore: Up to 85% off!",Non-Consumable
+274,3,"Kitchen essentials: Buy 1, Get 1 at 50% off!",Consumable
+275,3,"Backyard bonanza: 50% off on outdoor furniture!",Non-Consumable
+276,3,"Office supplies special: Buy 4, Get 2 free!",Consumable
+277,3,"Tech deals: Up to 70% off on smart home devices!",Non-Consumable
+278,3,"Home essentials bundle: Buy 3, Get 1 free!",Consumable
+279,3,"Limited time offer: 15% off on wall art and frames!",Non-Consumable
+280,3,"Fitness gear: Buy 4, Get 1 at 60% off!",Consumable
+281,3,"Electronics extravaganza: Up to 75% off!",Non-Consumable
+282,3,"Supermarket sweep: Buy 2, Get 2 free!",Consumable
+283,3,"Fashion fiesta: 45% off on clothing and accessories!",Non-Consumable
+284,3,"Buy 5, Get 2 at 45% off on beauty products!",Consumable
+285,3,"Gadgets galore: Up to 80% off!",Non-Consumable
+286,3,"Kitchen essentials: Buy 3, Get 1 free!",Consumable
+287,3,"Backyard bonanza: 55% off on outdoor furniture!",Non-Consumable
+288,3,"Office supplies special: Buy 2, Get 1 free!",Consumable
+289,3,"Tech deals: Up to 75% off on gaming accessories!",Non-Consumable
+290,3,"Home essentials bundle: Buy 4, Get 2 free!",Consumable
+291,3,"Limited stock: 25% off on home decor!",Non-Consumable
+292,3,"Fitness gear: Buy 2, Get 2 at 45% off!",Consumable
+293,3,"Electronics extravaganza: Up to 50% off!",Non-Consumable
+294,3,"Supermarket sweep: Buy 3, Get 1 free!",Consumable
+295,3,"Fashion fiesta: 50% off on fashion and accessories!",Non-Consumable
+296,3,"Buy 4, Get 2 at 50% off on beauty products!",Consumable
+297,3,"Gadgets galore: Up to 90% off!",Non-Consumable
+298,3,"Kitchen essentials: Buy 1, Get 1 at 55% off!",Consumable
+299,3,"Backyard bonanza: 60% off on outdoor furniture!",Non-Consumable
+300,3,"Office supplies special: Buy 5, Get 3 free!",Consumable
+301,3,"Tech deals: Up to 60% off on cameras and accessories!",Non-Consumable
+302,3,"Home essentials bundle: Buy 6, Get 2 free!",Consumable
+303,3,"Limited time offer: 30% off on bedding and linens!",Non-Consumable
+304,3,"Fitness gear: Buy 3, Get 1 at 65% off!",Consumable
+305,3,"Electronics extravaganza: Up to 85% off!",Non-Consumable
+306,3,"Supermarket sweep: Buy 2, Get 1 free!",Consumable
+307,3,"Fashion fiesta: 55% off on clothing and accessories!",Non-Consumable
+308,3,"Buy 5, Get 2 at 55% off on beauty products!",Consumable
+309,3,"Gadgets galore: Up to 70% off!",Non-Consumable
+310,3,"Kitchen essentials: Buy 3, Get 1 free!",Consumable
+311,3,"Backyard bonanza: 65% off on outdoor furniture!",Non-Consumable
+312,3,"Office supplies special: Buy 2, Get 1 free!",Consumable
+313,3,"Tech deals: Up to 80% off on audio equipment!",Non-Consumable
+314,3,"Home essentials bundle: Buy 4, Get 2 free!",Consumable
+315,3,"Limited stock: 30% off on home decor!",Non-Consumable
+316,3,"Fitness gear: Buy 2, Get 2 at 50% off!",Consumable
+317,3,"Electronics extravaganza: Up to 60% off!",Non-Consumable
+318,3,"Supermarket sweep: Buy 3, Get 1 free!",Consumable
+319,3,"Fashion fiesta: 60% off on fashion and accessories!",Non-Consumable
+320,3,"Buy 4, Get 2 at 60% off on beauty products!",Consumable
+321,3,"Gadgets galore: Up to 75% off!",Non-Consumable
+322,3,"Kitchen essentials: Buy 3, Get 1 free!",Consumable
+323,3,"Backyard bonanza: 70% off on outdoor furniture!",Non-Consumable
+324,3,"Office supplies special: Buy 2, Get 1 free!",Consumable
+325,3,"Tech deals: Up to 70% off on smartwatches and wearables!",Non-Consumable
+326,3,"Home essentials bundle: Buy 5, Get 3 free!",Consumable
+327,3,"Limited time offer: 35% off on wall art and frames!",Non-Consumable
+328,3,"Fitness gear: Buy 4, Get 1 at 70% off!",Consumable
+329,3,"Electronics extravaganza: Up to 90% off!",Non-Consumable
+330,3,"Supermarket sweep: Buy 2, Get 2 free!",Consumable
+331,3,"Fashion fiesta: 65% off on clothing and accessories!",Non-Consumable
+332,3,"Buy 5, Get 2 at 65% off on beauty products!",Consumable
+333,3,"Gadgets galore: Up to 80% off!",Non-Consumable
+334,3,"Kitchen essentials: Buy 1, Get 1 at 60% off!",Consumable
+335,3,"Backyard bonanza: 75% off on outdoor furniture!",Non-Consumable
+336,3,"Office supplies special: Buy 4, Get 2 free!",Consumable
+337,3,"Tech deals: Up to 75% off on gaming consoles!",Non-Consumable
+338,3,"Home essentials bundle: Buy 3, Get 1 free!",Consumable
+339,3,"Limited stock: 35% off on bedding and linens!",Non-Consumable

@@ -1,0 +1,101 @@
+Offer_ID,Segment,Offer,Product Type
+101,2,"Special offer on groceries: Spend $50, Get $10 off on your next visit!",Consumable
+102,2,"Exclusive offer: Buy 2, Get 1 Free on household essentials!",Consumable
+103,2,"Upgrade your pantry: Get 20% off on all non-perishable goods!",Consumable
+104,2,"Limited time offer: 25% off on all organic foods!",Consumable
+105,2,"Flash sale: Up to 30% off on selected grocery items!",Consumable
+106,2,"Buy a bundle of vegetables and get a free salad dressing!",Consumable
+107,2,"Upgrade your kitchen gadgets with special discounts on utensils and appliances!",Non-Consumable
+108,2,"Buy a bundle of cleaning supplies and get a free reusable cloth!",Consumable
+109,2,"Special offer on personal care items: Up to 25% off on selected products!",Non-Consumable
+110,2,"Introducing our latest collection of organic snacks with exclusive discounts!",Consumable
+111,2,"Upgrade your vitamins and supplements: Get 15% off on all health upgrades!",Non-Consumable
+112,2,"Exclusive offer: Buy 2, Get 1 Free on household essentials!",Consumable
+113,2,"Limited time offer: 30% off on all vitamins and supplements!",Non-Consumable
+114,2,"Flash sale: Up to 40% off on selected organic foods!",Consumable
+115,2,"Upgrade your pantry: Get 15% off on all non-perishable goods!",Consumable
+116,2,"Buy any two personal care items and get a third one free!",Non-Consumable
+117,2,"Get 30% off on all baby care products!",Non-Consumable
+118,2,"Exclusive supermarket sale: Up to 50% off on selected items!",Consumable
+119,2,"Upgrade your baking supplies with exclusive discounts on ingredients!",Consumable
+120,2,"Introducing our latest organic products with exclusive discounts!",Consumable
+121,2,"Special offer for food enthusiasts: Buy 2, Get 1 Free!",Consumable
+122,2,"Buy any two beverages and get a third one free!",Consumable
+123,2,"Get 25% off on all snacks and treats!",Consumable
+124,2,"Exclusive offer: Buy a gift basket and get a free greeting card!",Consumable
+125,2,"Upgrade your pet supplies with special discounts on pet food and toys!",Consumable
+126,2,"Special offer on personal care items: Up to 30% off on selected products!",Non-Consumable
+127,2,"Buy a bundle of fruits and get a free recipe book!",Consumable
+128,2,"Introducing our latest collection of international foods with exclusive discounts!",Consumable
+129,2,"Upgrade your beverage selection: Get 20% off on all beverages!",Consumable
+130,2,"Exclusive offer: Buy 1, Get 1 at 50% off on organic foods!",Consumable
+131,2,"Limited time offer: 20% off on all household essentials!",Non-Consumable
+132,2,"Flash sale: Up to 40% off on selected grocery items!",Consumable
+133,2,"Buy any two personal care items and get a third one free!",Non-Consumable
+134,2,"Get 30% off on all baby care products!",Non-Consumable
+135,2,"Exclusive supermarket sale: Up to 50% off on selected items!",Consumable
+136,2,"Upgrade your baking supplies with exclusive discounts on ingredients!",Consumable
+137,2,"Introducing our latest organic products with exclusive discounts!",Consumable
+138,2,"Special offer for food enthusiasts: Buy 2, Get 1 Free!",Consumable
+139,2,"Buy any two beverages and get a third one free!",Consumable
+140,2,"Get 25% off on all snacks and treats!",Consumable
+141,2,"Exclusive offer: Buy a gift basket and get a free greeting card!",Consumable
+142,2,"Upgrade your pet supplies with special discounts on pet food and toys!",Consumable
+143,2,"Special offer on personal care items: Up to 30% off on selected products!",Non-Consumable
+144,2,"Buy a bundle of fruits and get a free recipe book!",Consumable
+145,2,"Introducing our latest collection of international foods with exclusive discounts!",Consumable
+146,2,"Upgrade your beverage selection: Get 20% off on all beverages!",Consumable
+147,2,"Exclusive offer: Buy 1, Get 1 at 50% off on organic foods!",Consumable
+148,2,"Limited time offer: 20% off on all household essentials!",Non-Consumable
+149,2,"Flash sale: Up to 40% off on selected grocery items!",Consumable
+150,2,"Buy any two personal care items and get a third one free!",Non-Consumable
+151,2,"Get 30% off on all baby care products!",Non-Consumable
+152,2,"Exclusive supermarket sale: Up to 50% off on selected items!",Consumable
+153,2,"Upgrade your baking supplies with exclusive discounts on ingredients!",Consumable
+154,2,"Introducing our latest organic products with exclusive discounts!",Consumable
+155,2,"Special offer for food enthusiasts: Buy 2, Get 1 Free!",Consumable
+156,2,"Buy any two beverages and get a third one free!",Consumable
+157,2,"Get 25% off on all snacks and treats!",Consumable
+158,2,"Exclusive offer: Buy a gift basket and get a free greeting card!",Consumable
+159,2,"Upgrade your pet supplies with special discounts on pet food and toys!",Consumable
+160,2,"Special offer on personal care items: Up to 30% off on selected products!",Non-Consumable
+161,2,"Buy a bundle of fruits and get a free recipe book!",Consumable
+162,2,"Introducing our latest collection of international foods with exclusive discounts!",Consumable
+163,2,"Upgrade your beverage selection: Get 20% off on all beverages!",Consumable
+164,2,"Exclusive offer: Buy 1, Get 1 at 50% off on organic foods!",Consumable
+165,2,"Limited time offer: 20% off on all household essentials!",Non-Consumable
+166,2,"Flash sale: Up to 40% off on selected grocery items!",Consumable
+167,2,"Buy any two personal care items and get a third one free!",Non-Consumable
+168,2,"Get 30% off on all baby care products!",Non-Consumable
+169,2,"Exclusive supermarket sale: Up to 50% off on selected items!",Consumable
+170,2,"Upgrade your baking supplies with exclusive discounts on ingredients!",Consumable
+171,2,"Introducing our latest organic products with exclusive discounts!",Consumable
+172,2,"Special offer for food enthusiasts: Buy 2, Get 1 Free!",Consumable
+173,2,"Buy any two beverages and get a third one free!",Consumable
+174,2,"Get 25% off on all snacks and treats!",Consumable
+175,2,"Exclusive offer: Buy a gift basket and get a free greeting card!",Consumable
+176,2,"Upgrade your pet supplies with special discounts on pet food and toys!",Consumable
+177,2,"Special offer on personal care items: Up to 30% off on selected products!",Non-Consumable
+178,2,"Buy a bundle of fruits and get a free recipe book!",Consumable
+179,2,"Introducing our latest collection of international foods with exclusive discounts!",Consumable
+180,2,"Upgrade your beverage selection: Get 20% off on all beverages!",Consumable
+181,2,"Exclusive offer: Buy 1, Get 1 at 50% off on organic foods!",Consumable
+182,2,"Limited time offer: 20% off on all household essentials!",Non-Consumable
+183,2,"Flash sale: Up to 40% off on selected grocery items!",Consumable
+184,2,"Buy any two personal care items and get a third one free!",Non-Consumable
+185,2,"Get 30% off on all baby care products!",Non-Consumable
+186,2,"Exclusive supermarket sale: Up to 50% off on selected items!",Consumable
+187,2,"Upgrade your baking supplies with exclusive discounts on ingredients!",Consumable
+188,2,"Introducing our latest organic products with exclusive discounts!",Consumable
+189,2,"Special offer for food enthusiasts: Buy 2, Get 1 Free!",Consumable
+190,2,"Buy any two beverages and get a third one free!",Consumable
+191,2,"Get 25% off on all snacks and treats!",Consumable
+192,2,"Exclusive offer: Buy a gift basket and get a free greeting card!",Consumable
+193,2,"Upgrade your pet supplies with special discounts on pet food and toys!",Consumable
+194,2,"Special offer on personal care items: Up to 30% off on selected products!",Non-Consumable
+195,2,"Buy a bundle of fruits and get a free recipe book!",Consumable
+196,2,"Introducing our latest collection of international foods with exclusive discounts!",Consumable
+197,2,"Upgrade your beverage selection: Get 20% off on all beverages!",Consumable
+198,2,"Exclusive offer: Buy 1, Get 1 at 50% off on organic foods!",Consumable
+199,2,"Limited time offer: 20% off on all household essentials!",Non-Consumable
+200,2,"Flash sale: Up to 40% off on selected grocery items!",Consumable
